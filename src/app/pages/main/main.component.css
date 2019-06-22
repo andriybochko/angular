@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+h4{
+    margin: 50px auto;
+}
+
+img {
+    height: 150px;
+}
